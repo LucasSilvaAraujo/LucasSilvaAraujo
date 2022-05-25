@@ -1,7 +1,7 @@
 # Fala Rapaziada!!! :wave::wave::wave:
 
 - ### Meu nome é Lucas e esse é um pequeno resumo de mim! :v:
-- Tenho 19 anos e sou estudante de Programação pela UNA.
+- Tenho 20 anos e sou estudante de Programação pela UNA.
 - Sou pianista, amo música, vôlei, culinária, jogos, séries e filmes. :musical_keyboard: :video_game: :musical_score:
 - Atualmente estou expandiando meu conhecimento e desenvolvendo novos interesses.
 - Me converti recentemente e vivo por Deus e para Deus. :pray::pray:
@@ -13,7 +13,7 @@
 # Hello guys!!! :wave::wave::wave:
 
 - My name is Lucas and this is a short summary of me! :v:
-- I'm 19 years old and I'm a Programming student at UNA.
+- I'm 20 years old and I'm a Programming student at UNA.
 - I'm a pianist. I love music, volleyball, cooking, games, series and movies. :musical_keyboard: :video_game: :musical_score:
 - I'm currently expanding my knowledge and developing new interests.
 - I was recently converted and I live for God and his purposes. :pray::pray:
