@@ -1,6 +1,6 @@
 ### Hi, Welcome to my Profile.
 
-- 🔭 Actually working with Data Analyst in vallourec.
+- 🔭 Actually working with Data Analyst in Vallourec.
 - 🌱 Degree in systems analysis and development.
 - 💬 My contact: lucasaraujo2272@gmail.com
 
