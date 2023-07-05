@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaAraujo&show_icons=true&theme=merko)](https://github.com/LucasSilvaAraujo/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaAraujo&show_icons=true&theme=merko">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaAraujo&layout=compact&theme=merko)
