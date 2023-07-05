@@ -1,4 +1,4 @@
-### Hi, welcome to my Profile.
+### Hi, Welcome to my Profile.
 
 - 🔭 Actually working with Data Analyst in Vallourec.
 - 🌱 Degree in Analysis and Systems Development.
